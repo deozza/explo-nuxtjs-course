@@ -1,0 +1,3 @@
+[submodule "explo-frontend-nuxtjs"]
+	path = explo-frontend-nuxtjs
+	url = https://github.com/deozza/explo-frontend-nuxtjs
