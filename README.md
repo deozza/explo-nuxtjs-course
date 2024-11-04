@@ -2,8 +2,8 @@
 
 ## Sommaire <!-- omit in toc -->
 
-- [Présentation de svelte](#présentation-de-svelte)
-- [Présenation de sveltekit](#présenation-de-sveltekit)
+- [Présentation de Vuejs](#présentation-de-vuejs)
+- [Présenation de Nuxtjs](#présenation-de-nuxtjs)
 - [Création d'un projet](#création-dun-projet)
 - [Description de l'arborescence de fichiers et des types de fichier](#description-de-larborescence-de-fichiers-et-des-types-de-fichier)
 - [Créer une page](#créer-une-page)
@@ -100,7 +100,7 @@ Enfin, nous pouvons créer notre première `/pages/index.vue` :
 
 Dans un terminal, lancez la commande `npm run dev -- -o` pour démarrer le serveur et voir notre page : 
 
-![1-create_page](../../../../assets/js/nodejs/vuejs/nuxtjs/1-create_page.png)
+![1-create_page](./assets/1-create_page.png)
 
 Chaque page dans une application NuxtJS se décompose en 3 parties : 
 
@@ -196,7 +196,7 @@ Pour intégrer un composant, NuxtJS propose un système d'auto-import. Il suffit
 </template>
 ```
 
-![2-create_component](../../../../assets/js/nodejs/vuejs/nuxtjs/2-create_component.png)
+![2-create_component](./assets/2-create_component.png)
 
 ## Les slots
 
